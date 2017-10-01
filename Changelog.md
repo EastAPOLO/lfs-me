@@ -1,6 +1,10 @@
 Changelog
 =========
 
+v3.1.4
+------
+* automatically overwrite files.
+
 v3.1.3
 ------
 * parallel xz compression
